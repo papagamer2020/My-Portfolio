@@ -8,7 +8,9 @@
 
 }
 
-.project-image {
-    max-height: 300px;
-    max-width: 300px;
+
+.project-image h3 {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
